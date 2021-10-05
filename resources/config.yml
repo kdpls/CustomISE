@@ -1,0 +1,28 @@
+---
+#
+#  PLUGIN BY:
+#   _    __                  _                                     _
+#  | |  / /                 | |                                   | |
+#  | | / /                  | |                                   | |
+#  | |/ / _   _  ____   ____| | ______ ____   _____ ______   ____ | | __
+#  | |\ \| | | |/ __ \ / __ \ |/ /  __/ __ \ / __  | _  _ \ / __ \| |/ /
+#  | | \ \ \_| | <__> |  ___/   <| / | <__> | <__| | |\ |\ | <__> |   <
+#  |_|  \_\__  |\___  |\____|_|\_\_|  \____^_\___  |_||_||_|\____^_\|\_\
+#            | |    | |                          | |
+#         ___/ | ___/ |                          | |
+#        |____/ |____/                           |_|
+#
+
+##### DANGER ZONE #####
+# Do not change this (Only for internal use)!
+config-version: "1.0"
+#######################
+
+# Use "{player}" to show player's name
+# Use "&" as formatting codes
+# Use "\n" to break into new line
+
+# Set the internal server error message
+# If empty, it will use the default PocketMine-MP internal server error message
+ise-message: "&cOops, internal server error!"
+...

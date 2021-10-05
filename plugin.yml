@@ -1,0 +1,30 @@
+---
+#
+#  PLUGIN BY:
+#   _    __                  _                                     _
+#  | |  / /                 | |                                   | |
+#  | | / /                  | |                                   | |
+#  | |/ / _   _  ____   ____| | ______ ____   _____ ______   ____ | | __
+#  | |\ \| | | |/ __ \ / __ \ |/ /  __/ __ \ / __  | _  _ \ / __ \| |/ /
+#  | | \ \ \_| | <__> |  ___/   <| / | <__> | <__| | |\ |\ | <__> |   <
+#  |_|  \_\__  |\___  |\____|_|\_\_|  \____^_\___  |_||_||_|\____^_\|\_\
+#            | |    | |                          | |
+#         ___/ | ___/ |                          | |
+#        |____/ |____/                           |_|
+#
+# Change your PocketMine-MP internal server error kick message!
+# Copyright (C) 2020 Kygekraqmak
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# he Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+
+name: CustomISE
+author: Kygekraqmak
+version: 1.0.0
+api: 3.0.0
+mcpe-protocol: 408
+main: Kygekraqmak\CustomISE\CustomISE
+...
